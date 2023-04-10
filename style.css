@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(210, 211, 211);
+}
+.box-inside{
+    background-color: white;
+    text-align: center;   
+    padding: 40px 10px;
+    margin: 25px 10px;
+
+}
+.fa{
+    color: rgb(91, 91, 223);
+}
+
+a{
+    text-decoration: none;
+    border-bottom: 2px solid blue;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.text{
+    padding: 30px 15px;
+}
+.box{
+    padding:60px 0;
+}
